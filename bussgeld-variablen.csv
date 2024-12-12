@@ -1,0 +1,12 @@
+Variable;Erläuterung
+ID;Unique Identifier für den Bußgeldkatalogeintrag innerhalb des Datensatzes
+DokID;Unique Identifier für die Quelle innerhalb des Datensatzes
+Blatt;Identifer der Quelle, Nummer des Bayerisches Ministerialblatt
+Datum;Veröffentlichungsdatum der Quelle, als fortlaufende Zahl
+Lfd. Nr.;Nummer des Bußgeldkatalogeintrages innerhalb einer Quelle
+Adressat ;Adressat des Bußgeldes, kategorisiert
+Referenz BayMBl.;Bezug zur Verwaltungsvorschrift mit der betreffenden Ordnunswidrigkeit
+Norm;Bezug zur Norm innerhalb der betreffenden Verwaltungsvorschrift
+Verstoß;zu ahndender Verstoß, wie in Quelle angegeben
+Adressat des Bußgeldbescheids;Adressat des Bußgeldes, wie in Quelle angegeben
+Regelsatz in €;Höhe des Bußgeldes, wie in Quelle angegeben, als Zahl
