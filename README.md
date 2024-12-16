@@ -3,9 +3,8 @@
 ## Bibliografische Angaben
 
 ### Autor:in(nen)
-
-Fabian Cremer, Leibniz-Institut für Europäische Geschichte (IEG), Mainz, ORCID: 0000-0001-8251-9727
-Prof. Dr. Johannes Paulmann, Leibniz-Institut für Europäische Geschichte (IEG), Mainz, ORCID: 0000-0002-1025-1650
+- Fabian Cremer, Leibniz-Institut für Europäische Geschichte (IEG), Mainz, ORCID: 0000-0001-8251-9727
+- Prof. Dr. Johannes Paulmann, Leibniz-Institut für Europäische Geschichte (IEG), Mainz, ORCID: 0000-0002-1025-1650
 
 ### Titel des Datensatzes
 Systematische Erfassung und angereicherte Übersicht der Bußgeldkataloge „Corona-Pandemie“ 2020-2022 aus Bayern, Deutschland
