@@ -93,6 +93,14 @@ Es liegen keine besonderen Anforderungen vor.
 ### Datenstruktur
 Die HTML-Repräsentationen der Quellen enthalten semi-strukturierten Text durch HTML-Markup. Die CSV-Repräsentation aller Bußgeld-Tabellen enthalten extrahierte strukturierte Daten aus den HTML-Quellen. Jeder Eintrag in einem Bußgeldkatalog entspricht einer Zeile.
 
+### Dateiliste
+- bussgeld-adressat-kategorie.csv: Liste der gebildeten Kategorien für die Adressat:innen von Bußgeldern
+- bussgeld-adressat-normal.csv: Liste der normailisierten Einträge für die Adressat:innen von Bußgeldern
+- bussgeld-datenblatt.csv: Aggregierte Übersicht der Bußgeldkatalogeinträge
+- bussgeld-datenblatt.xlsx: Aggregierte Übersicht der Bußgeldkatalogeinträge
+- bussgeld-variablen.csv: Liste der Variablen in der aggregierten Übersicht der Bußgeldkatalogeinträge
+- log-skripte.md: Logbuch der eingesetzten Verfahren zur Datengenerierung und Datentransfomration
+
 ### Variablen und Werte
 Eine Liste der Spalten mit den jeweiligen Erläuterungen liegt in der XLSX-Repräsentation und als separate Datei vor.
 
