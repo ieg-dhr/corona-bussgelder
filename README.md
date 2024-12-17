@@ -99,6 +99,8 @@ Die HTML-Repräsentationen der Quellen enthalten semi-strukturierten Text durch 
 - bussgeld-datenblatt.xlsx: Aggregierte Übersicht der Bußgeldkatalogeinträge
 - bussgeld-variablen.csv: Liste der Variablen in der aggregierten Übersicht der Bußgeldkatalogeinträge
 - log-skripte.md: Logbuch der eingesetzten Verfahren zur Datengenerierung und Datentransfomration
+- Quellen (Ordner): HTML-Repräsentationen der Bußgeldkataloge
+- Suche\search-result-baymbl.html: Suchergebnisliste
 
 ### Variablen und Werte
 Eine Liste der Spalten mit den jeweiligen Erläuterungen liegt in der XLSX-Repräsentation und als separate Datei vor.
